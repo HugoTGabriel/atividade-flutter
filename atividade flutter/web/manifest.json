@@ -1,0 +1,11 @@
+{
+  "name": "Cadastro de Usuário",
+  "short_name": "Cadastro",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#6750A4",
+  "theme_color": "#6750A4",
+  "description": "Atividade Prática: Formulário de Cadastro de Usuário em Flutter",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false
+}
